@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913144611483",
+    "firebase_url": "https://rkadotesting.firebaseio.com",
+    "project_id": "rkadotesting",
+    "storage_bucket": "rkadotesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913144611483:android:651f3edd0e8831c55dbc3e",
+        "android_client_info": {
+          "package_name": "com.rkado.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913144611483-90ft178rflof01d1qdshkej72gdlqg5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYrwO0Pa5SCGcG5355OCWMa94qnF6LOPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913144611483-90ft178rflof01d1qdshkej72gdlqg5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
